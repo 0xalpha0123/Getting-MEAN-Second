@@ -1,11 +1,10 @@
-# gettingMean-2
 # Getting MEAN Second Edition application code
 
 This is the code for the sample 'Loc8r' application that is built through the course of the book Getting MEAN Second Edition.
 
 Getting MEAN Second Edition is published by Manning, and teaches readers how to develop web applications end-to-end using the MEAN stack with Node 11 and Angular 7. It is currently in early access through the MEAP program, with new chapters being released regularly.
 
-> Note: if you have the First Edition of the book using Node 4 and Angular 1 you need the [First Edition code](https://github.com/simonholmes/getting-MEAN/) instead.
+> Note: if you have the First Edition of the book using Node 4 and Angular 1 you need the [First Edition code](https://github.com/bluesky-coder/Getting-MEAN-Second/) instead.
 
 ## The application at various stages
 
@@ -34,11 +33,11 @@ Pre-requisites:
 
 To get the code for a specific branch:
 
-`$ git clone -b branch-name https://github.com/cliveharber/gettingMean-2.git`
+`$ git clone -b branch-name https://github.com/bluesky-coder/Getting-MEAN-Second.git`
 
 Then change into the folder the git clone command will create:
 
-`$ cd getting-MEAN-2`
+`$ cd Getting-MEAN-Second`
 
 And finally install the dependencies:
 
@@ -52,11 +51,11 @@ Pre-requisites:
 
 To get the code for a specific branch:
 
-`$ git clone -b branch-name https://github.com/cliveharber/gettingMean-2.git`
+`$ git clone -b branch-name https://github.com/bluesky-coder/Getting-MEAN-Second.git`
 
 Then change into the folder the git clone command will create:
 
-`$ cd getting-MEAN-2`
+`$ cd Getting-MEAN-Second`
 
 And finally run the docker containers
 
